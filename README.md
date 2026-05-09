@@ -8,6 +8,10 @@ That’s where SOC metrics come in.
 
 In this article, we’ll break down the most important SOC performance metrics, why they matter, and how security analysts, especially L1 analysts can actively improve them. Based on the concepts covered in the TryHackMe SOC Metrics room.
 
+**Lab Link:** [https://tryhackme.com/room/socmetricsobjectives/](https://tryhackme.com/room/socmetricsobjectives/)
+
+<img width="1024" height="1024" alt="SOC_Cover" src="https://github.com/user-attachments/assets/da3e7e80-33e0-4437-a479-d5e237e95e1b" />
+
 ---
 
 ## Why SOC Metrics Matter
@@ -25,10 +29,6 @@ SOC metrics help answer questions like:
 * Is escalation happening appropriately?
 
 These metrics are useful for both operational efficiency and analyst performance evaluation.
-
-**Lab Link:** [https://tryhackme.com/room/socmetricsobjectives/](https://tryhackme.com/room/socmetricsobjectives/)
-
-<img width="1024" height="1024" alt="SOC_Cover" src="https://github.com/user-attachments/assets/da3e7e80-33e0-4437-a479-d5e237e95e1b" />
 
 ---
 
